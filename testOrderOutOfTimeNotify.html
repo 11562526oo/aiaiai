@@ -1,0 +1,66 @@
+<!DOCTYPE html><html lang="en" xmlns:th="http://www.thymeleaf.org"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title th:remove="all">中国移动CDN试用业务时长即将到期提醒</title>
+</head>
+<style>
+    table {
+        border-collapse: collapse;
+        margin-left: 50px;
+        width: 70%;
+    }
+    table, td, th {
+        border: 1px solid black;
+    }
+    td {
+        padding: 10px;
+        text-align: center;
+        vertical-align: middle;
+    }
+</style>
+<body>
+<p>
+    您好:
+</p>
+<p id="cdn-autoid-1">
+    <span> 检测到<span th:text="${enterpriseName}"></span>企业试用工单编号为
+        <span th:text="${orderNumber}"></span>的<span th:text="${businessType}"></span>产品，试用记录如下：
+        </span>
+</p>
+<p>
+<div th:if="${changeRecord != null}">
+    <table>
+        <tr>
+            <th><b>试用开始时间</b></th>
+            <th><b>试用结束时间</b></th>
+            <th><b>可试用时长（天）</b></th>
+            <th><b>已试用时长（天）</b></th>
+            <th><b>试用结束原因</b></th>
+        </tr>
+        <tr th:each="item: ${changeRecord}">
+            <td th:text="${item.startTime}"></td>
+            <td th:text="${item.endTime}"></td>
+            <td th:text="${item.tryDay}"></td>
+            <td th:text="${item.usedDay}"></td>
+            <td th:text="${item.endReason}"></td>
+        </tr>
+    </table>
+</div>
+<table>
+    <tr>
+        <th><b>试用开始时间</b></th>
+        <th><b>预计试用结束时间</b></th>
+        <th><b>可试用时长（天）</b></th>
+        <th><b>已试用时长（天）</b></th>
+    </tr>
+    <tr>
+        <td th:text="${startTime}"></td>
+        <td th:text="${endTime}"></td>
+        <td th:text="${testDuration}"></td>
+        <td th:text="${alreadyTestDays}"></td>
+    </tr>
+</table>
+</p>
+<p>
+    截止<span th:text="${currentDate}"></span>试用时长剩余<span th:text="${remainingDays}"></span>日，如您还需继续使用，可以开通正式服务或申请试用延期。
+</p>
+</body></html>

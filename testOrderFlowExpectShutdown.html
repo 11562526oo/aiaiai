@@ -1,0 +1,18 @@
+<!DOCTYPE html><html lang="en" xmlns:th="http://www.thymeleaf.org"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title th:remove="all">中国移动CDN试用业务流量即将耗尽提醒</title>
+</head>
+<body>
+<p>
+    您好:
+</p>
+<p id="cdn-autoid-1">
+    <span> 检测到<span th:text="${enterpriseName}"></span>企业试用工单编号为
+        <span th:text="${orderNumber}"></span>的<span th:text="${businessType}"></span>产品，
+        试用业务开始时间为<span th:text="${startTime}"></span>，
+        申请试用流量<span th:text="${businessLimitFlow}"></span>，
+        已试用流量<span th:text="${trialFlow}"></span>，
+        试用流量剩余<span th:text="${surplusFlow}"></span>，
+        如您还需继续使用，可以开通正式服务或申请增加试用流量。</span>
+</p>
+</body></html>
