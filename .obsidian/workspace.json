@@ -11,10 +11,14 @@
             "id": "d1bd2dd4af817846",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ai/欠拟合和过拟合.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "欠拟合和过拟合"
             }
           }
         ]
@@ -191,6 +195,22 @@
   },
   "active": "d1bd2dd4af817846",
   "lastOpenFiles": [
+    "ai/损失函数.md",
+    "ai/欠拟合和过拟合.md",
+    "testOrderOutOfTimeNotify.html",
+    "testOrderFlowExpectShutdown.html",
+    "notifyBeforeTrialDataAndTimeExpiry.html",
+    "notifyBeforeTrialDataAndTimeExpiry 2.html",
+    "notifyBeforeTrialDataAndTimeExpiry 1.html",
+    "Pasted image 20260209173630.png",
+    "Pasted image 20260207172811.png",
+    "Pasted image 20260207115634.png",
+    "Pasted image 20260207115612.png",
+    "2026-02-09.md",
+    "2026-02-07.md",
+    "2026-02-06.md",
+    "2026-02-04.md",
+    "2026-02-03.md",
     "ai/模型评估和模型选择.md",
     "未命名.base",
     "未命名 1.base",
@@ -200,23 +220,14 @@
     "linux/JWT.md",
     "linux/基础命令.md.md",
     "linux/未命名.base",
-    "2026-02-09.md",
     "未命名/7.18.0.md",
     "工作记录/2026-01-26.md",
     "工作记录/2026-01-29.md",
     "工作记录/2026-01-31.md",
     "工作记录/2026-02-02.md",
     "工作记录/Pasted image 20260127165731.png",
-    "2026-02-07.md",
-    "2026-02-06.md",
-    "2026-02-03.md",
-    "2026-02-04.md",
     "未命名.canvas",
-    "Pasted image 20260209173630.png",
-    "Pasted image 20260207172811.png",
     "工作记录/2026-01-27.md",
-    "Pasted image 20260207115634.png",
-    "Pasted image 20260207115612.png",
     "工作记录/Pasted image 20260127165212.png",
     "工作记录/Pasted image 20260127144221.png",
     "工作记录/Pasted image 20260127142939.png",
@@ -224,18 +235,12 @@
     "工作记录/2026-01-20.md",
     "工作记录/2026-01-19.md",
     "工作记录/2026-01-12.md",
-    "notifyBeforeTrialDataAndTimeExpiry 2.html",
-    "notifyBeforeTrialDataAndTimeExpiry 1.html",
     "python/实例方法，类方法，静态方法，特殊方法.md",
-    "notifyBeforeTrialDataAndTimeExpiry.html",
-    "testOrderFlowExpectShutdown.html",
-    "testOrderOutOfTimeNotify.html",
     "未命名",
     "python/遗留问题.md",
     "萨.md",
     "2026-01-09.md",
     "未命名 1.canvas",
-    "linux命令速查/未命名.canvas",
-    "欢迎.md"
+    "linux命令速查/未命名.canvas"
   ]
 }
