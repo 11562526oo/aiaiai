@@ -1,0 +1,45 @@
+{
+    "code": "2026_0225_02254",
+    "plain_info": [
+        {
+            // 平面名称 枚举值 -1:自研RTMP；0:自研1.0；1:华为平面；2:中兴平面；3:网宿平面；4:自研2.0； 说明：传输平面编码
+            "plain_name": "1",
+            "domain_pre_info": [
+                {
+                    "domain": "lyjchange4.20260225601.com",
+                    "domain_type": "1",
+                    "plain_name": "1",
+                    "schedule_type": "CNAME",
+                    "sources": [
+                        {
+                            "primary": true,
+                            "type": "ip",
+                            "back_addr": "172.21.16.71"
+                        }
+                    ],
+                    "http_selection": {
+                        "protocol": 0,
+                        "unique_id": ""
+                    },
+                    "server_domain": [
+                        "127.0.0.1"
+                    ],
+                    "source_protocol": {
+                        "protocol_port": {
+                            "http": 80,
+                            "https": 443
+                        },
+                        "protocol_type": 0 //回源协议XQBG。取值：0-协议跟随；1-http；2-https
+                    },
+                    "cname": "secCnameXQBGZB",
+                    "centralized_cname": "firCnameXQBGZB"
+                }
+              
+            ],
+            "approve": "0"
+        }
+    ],
+    "approve": "0",
+    "try_time": "2026-02-25 14:34:22",
+    "open_time": "2026-02-25 14:34:22"
+}
