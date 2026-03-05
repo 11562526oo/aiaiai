@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai/欠拟合和过拟合.md",
+                "file": "ai/模型求解算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欠拟合和过拟合"
+              "title": "模型求解算法"
             }
           }
         ]
@@ -195,10 +195,14 @@
   },
   "active": "58fc2aeda307acda",
   "lastOpenFiles": [
-    "ai/损失函数.md",
-    "ai/欠拟合和过拟合.md",
-    "ai/特征工程.md",
+    "ai/交叉验证.md",
+    "ai/模型求解算法.md",
+    "ai/训练数据是怎么被 Lasso 过滤的”到底在过滤什么？.md",
+    "ai/正则化.md",
     "ai/目前需要记住的.md",
+    "ai/欠拟合和过拟合.md",
+    "ai/损失函数.md",
+    "ai/特征工程.md",
     "mytest.md",
     "新建文本文档.txt",
     "2026-02-09.md",
@@ -232,15 +236,11 @@
     "工作记录/Pasted image 20260127142939.png",
     "工作记录/Pasted image 20260127144348.png",
     "工作记录/2026-01-20.md",
-    "工作记录/2026-01-19.md",
-    "工作记录/2026-01-12.md",
     "notifyBeforeTrialDataAndTimeExpiry 2.html",
     "notifyBeforeTrialDataAndTimeExpiry 1.html",
-    "python/实例方法，类方法，静态方法，特殊方法.md",
     "notifyBeforeTrialDataAndTimeExpiry.html",
     "testOrderFlowExpectShutdown.html",
     "testOrderOutOfTimeNotify.html",
-    "python/遗留问题.md",
     "未命名 1.canvas",
     "linux命令速查/未命名.canvas"
   ]
