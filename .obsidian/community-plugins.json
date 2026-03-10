@@ -1,5 +1,6 @@
 [
-  "dataview",
   "obsidian-git",
-  "code-styler"
+  "code-styler",
+  "dataview",
+  "calendar"
 ]
