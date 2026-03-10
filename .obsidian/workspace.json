@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysql/mysql为什么使用b+树.md",
+                "file": "mysql/mySql.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mysql为什么使用b+树"
+              "title": "mySql"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql/mysql为什么使用b+树.md",
+                "file": "mysql/mySql.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "mysql为什么使用b+树 的大纲"
+              "title": "mySql 的大纲"
             }
           },
           {
@@ -194,10 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3e89f917b617e5e",
+  "active": "2d95b44a3a532bf0",
   "lastOpenFiles": [
-    "linux/未命名.base",
+    "linux/JWT.md",
+    "linux/advice.md",
     "linux/基础命令.md.md",
+    "linux/未命名.base",
+    "mysql/未命名.md",
+    "未命名/7.18.0.md",
     "mysql/mysql为什么使用b+树.md",
     "python/实例方法，类方法，静态方法，特殊方法.md",
     "mysql",
@@ -208,9 +212,7 @@
     "2026-02-06.md",
     "2026-02-04.md",
     "2026-02-03.md",
-    "linux/advice.md",
-    "linux/JWT.md",
-    "Java/mySql.md",
+    "mysql/mySql.md",
     "工作记录/Pasted image 20260127142939.png",
     "工作记录/2026-01-20.md",
     "工作记录/2026-01-19.md",
@@ -227,9 +229,7 @@
     "ai/欠拟合和过拟合.md",
     "ai/损失函数.md",
     "ai/特征工程.md",
-    "mytest.md",
     "新建文本文档.txt",
-    "ai/demo.md",
     "未命名.base",
     "未命名 1.base",
     "ai",
