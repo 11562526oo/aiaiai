@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/基础命令.md.md",
+                "file": "中间件/消息队列/kafka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础命令.md"
+              "title": "kafka"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/基础命令.md.md",
+                "file": "中间件/消息队列/kafka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础命令.md 的大纲"
+              "title": "kafka 的大纲"
             }
           },
           {
@@ -190,8 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38b76aad587d79f1",
+  "active": "76b1c5e51505bc02",
   "lastOpenFiles": [
+    "中间件/消息队列/消息队列.md",
+    "中间件/消息队列/kafka.md",
+    "linux/基础命令.md.md",
     "Java/日历.md",
     "2026-03-10.md",
     "Java/# Obsidian 日历工作系统.md",
@@ -204,7 +207,6 @@
     "未命名 3.base",
     "未命名 2.base",
     "中间件/心得.md",
-    "中间件/消息队列/消息队列.md",
     "Java/JVM/未命名.md",
     "中间件/消息队列",
     "中间件",
@@ -216,7 +218,6 @@
     "mysql/mysql为什么使用b+树.md",
     "linux/JWT.md",
     "linux/advice.md",
-    "linux/基础命令.md.md",
     "未命名/7.18.0.md",
     "python/实例方法，类方法，静态方法，特殊方法.md",
     "2026-02-09.md",
@@ -232,7 +233,6 @@
     "工作记录/2026-01-12.md",
     "Pasted image 20260207115634.png",
     "Pasted image 20260207115612.png",
-    "工作记录/接口.md",
     "工作记录/Pasted image 20260127165731.png",
     "Pasted image 20260209173630.png",
     "Pasted image 20260207172811.png",
