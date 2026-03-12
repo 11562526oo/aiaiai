@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "03be16720c3ed826",
+        "id": "a4c3e79e914d9d41",
         "type": "tabs",
         "children": [
           {
-            "id": "ca19154d447dbe9e",
+            "id": "0de3fc1cf99e967b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中间件/未命名.md",
+                "file": "中间件/消息队列/RabbitMQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "RabbitMQ"
             }
           }
         ]
@@ -137,18 +137,32 @@
             }
           },
           {
+            "id": "f4d76fafbbbd9305",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
             "id": "04d7fef627cb2cf4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "中间件/消息队列/kafka.md",
+                "file": "Java/项目介绍.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "kafka 的大纲"
+              "title": "项目介绍 的大纲"
             }
           },
           {
@@ -162,7 +176,7 @@
             }
           },
           {
-            "id": "77c699113c779b0a",
+            "id": "77d7a816a20afcda",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -170,23 +184,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "b96cc676436f3a48",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -204,55 +204,57 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca19154d447dbe9e",
+  "active": "38b76aad587d79f1",
   "lastOpenFiles": [
-    "Java/微服务/分布式事务.md",
-    "Pasted image 20260312100053.png",
-    "中间件/redis.md",
-    "Java/微服务",
-    "中间件/未命名.md",
-    "中间件/心得.md",
-    "Java/JVM/未命名.md",
-    "Java/项目介绍.md",
-    "Java/日历.md",
-    "中间件/redis/穿透 击穿 雪崩.md",
     "2026-03-10.md",
-    "mysql/慢查询.md",
-    "mysql/索引.md",
-    "mysql/mysql如何实现事务.md",
-    "mysql/回表.md",
+    "中间件/消息队列/RabbitMQ.md",
+    "中间件/消息队列/消息队列.md",
+    "中间件/消息队列/kafka.md",
+    "记录/未命名 1.md",
+    "记录/未命名 2.md",
+    "python/实例方法，类方法，静态方法，特殊方法.md",
+    "Pasted image 20260312100053.png",
     "mysql/mysql为什么使用b+树.md",
+    "mysql/索引.md",
+    "mysql/回表.md",
+    "linux/基础命令.md.md",
+    "linux/advice.md",
+    "linux/JWT.md",
+    "Java/JVM/未命名.md",
+    "中间件/心得.md",
+    "中间件/redis.md",
+    "Java/微服务/分布式事务.md",
+    "Java/微服务",
+    "记录",
+    "中间件/未命名.canvas",
     "中间件/redis/redis淘汰策略和删除机制.md",
     "中间件/redis/redis集群主从节点.md",
-    "中间件/redis/redis查询阻塞和爆满.md",
     "中间件/redis/缓存数据库一致性.md",
-    "中间件/redis/分布式锁.md",
-    "中间件/redis/redis多级缓存.md",
     "中间件/redis/redis的常用数据类型.md",
-    "中间件/redis/持久化rdb aof.md",
-    "中间件/redis/分布式Session.md",
+    "中间件/redis/redis查询阻塞和爆满.md",
     "中间件/redis/跳表.md",
-    "中间件/消息队列/kafka.md",
+    "中间件/redis/分布式锁.md",
+    "中间件/redis/分布式Session.md",
+    "ai/交叉验证.md",
     "中间件/redis",
-    "未命名 1.base",
-    "未命名.base",
-    "未命名 5.base",
-    "未命名 4.base",
-    "未命名 3.base",
-    "未命名 2.base",
     "中间件/消息队列",
     "中间件",
-    "未命名 1.canvas",
-    "未命名.canvas",
-    "工作记录/Pasted image 20260127142939.png",
+    "mysql",
+    "Java/JVM",
+    "Java",
+    "新建文本文档.txt",
+    "testOrderOutOfTimeNotify.html",
+    "Pasted image 20260209173630.png",
+    "Pasted image 20260207172811.png",
     "Pasted image 20260207115634.png",
     "Pasted image 20260207115612.png",
     "工作记录/Pasted image 20260127165731.png",
-    "Pasted image 20260209173630.png",
-    "Pasted image 20260207172811.png",
+    "未命名.canvas",
     "工作记录/Pasted image 20260127165212.png",
     "工作记录/Pasted image 20260127144221.png",
+    "工作记录/Pasted image 20260127142939.png",
     "工作记录/Pasted image 20260127144348.png",
+    "未命名 1.canvas",
     "linux命令速查/未命名.canvas"
   ]
 }
